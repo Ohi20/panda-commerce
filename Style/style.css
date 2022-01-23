@@ -1,0 +1,29 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.panda-bg-info{
+    background-color: #fceae8;
+}
+.categories img{
+    width:100px;
+}
+.panda-btn{
+    background-color: #ff428d;
+    color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    border:none;
+}
+.panda-form-bg{
+    background-color: #ff428d;
+}
+.panda-menu{
+    color:white;
+    background-color: #ff428d ;
+}
+.panda-progress{
+    color: #ff428d;
+}
+.panda-footer-p{
+    color:#ff428d;
+}
